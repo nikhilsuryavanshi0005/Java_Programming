@@ -65,3 +65,4 @@ This project is open-source and available under the MIT License.
 
 Contact:
 For any questions, suggestions, or feedback, please contact the repository owner, Nikhil Suryavanshi.
+E-mail : nikhilsuryavanshi005@gmail.com
